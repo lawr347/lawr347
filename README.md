@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋
+
+- 🔭 I’m currently working on ... breaking stuff
+- 📫 How to reach me: ... lawrie.len@gmail.com
+
 
 <!--
 **lawr347/lawr347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
